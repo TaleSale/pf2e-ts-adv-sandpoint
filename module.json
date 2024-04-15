@@ -2,7 +2,7 @@
   "id": "pf2e-ts-adv-sandpoint",
   "title": "PF2E-TS-ADV (Sandpoint)",
   "description": "Дополнение для АП Семь Погибелей Сэндпоинта",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "relationships": {
 		"systems": [
 			{
