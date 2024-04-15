@@ -1,0 +1,870 @@
+{
+  "seven-dooms-for-sandpoint-bestiary": {
+    "pnLPdcv5ROaICESe": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ABSTALAR%20ZANTUS.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ABSTALAR%20ZANTUS.webp",
+        "scale": 1.5
+      }
+    },
+    "U77Y6dfaQb4pPNpU": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/goblin-Ghoul.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/goblin-Ghoul.webp",
+        "scale": 1.2
+      }
+    },
+    "ru2uTJxf6RTUzJ1p": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20Glorkus.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20Glorkus.webp",
+        "scale": 1.2
+      }
+    },
+    "Pttsmgi4axxOY06h": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "RM9NdjSOuLqKwWPn": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Statue%20of%20Alaznist.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Statue%20of%20Alaznist.webp",
+        "scale": 1.5
+      }
+    },
+    "uuOCbfwxKCiiiawW": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "DcVyPHFvzrUhC7EV": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20WARDEN%20HAGGENTI.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20WARDEN%20HAGGENTI.webp",
+        "scale": 2
+      }
+    },
+    "6KhRRlIrLHvNDIlN": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20WOLGUR%20WRABS.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20WOLGUR%20WRABS.webp",
+        "scale": 1.5
+      }
+    },
+    "2j2PyCu5eShIZqUQ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "obwWQUZAdTO8fTKy": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "sLFSXmv8NereWm15": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20TUNCH.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20TUNCH.webp",
+        "scale": 1.2
+      }
+    },
+    "vzEP8QvlJm0OZVWv": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Giant%20Longlegs.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Giant_Longlegs.webp",
+        "scale": 3
+      }
+    },
+    "39EWaqeCNzeAmsGd": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20GURLUNK.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20GURLUNK.webp",
+        "scale": 1.2
+      }
+    },
+    "vLaHGDJu2xsqAxuq": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Cruncher.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Cruncher.webp",
+        "scale": 1.5
+      }
+    },
+    "fCPf4Vl39OxXHvCA": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20MINARGUL.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20MINARGUL.webp",
+        "scale": 1.6
+      }
+    },
+    "SeLGzSRvXzRiaUGJ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20RIPNUGGET.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20RIPNUGGET.webp",
+        "scale": 1.6
+      }
+    },
+    "xoh5JAue3PtjH6dS": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Sinspawn%20(Greedspawn).webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Sinspawn%20(Greedspawn).webp",
+        "scale": 1.5
+      }
+    },
+    "xwM0EVgxGtbvPd0i": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20DEVILS%20DISCIPLE.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20DEVILS%20DISCIPLE.webp",
+        "scale": 2
+      }
+    },
+    "TUJQ4TlTlwCX8YMY": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Ogre%20Guard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Ogre%20Guard.webp",
+        "scale": 1.5
+      }
+    },
+    "XALtVzQ35vGHYTnk": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ASMERELLI.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ASMERELLI.webp",
+        "scale": 1.2
+      }
+    },
+    "nUyRfG2DlTAXFyn1": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "hp3uUqKvGfKOxFGu": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20sicklefang%20longleg.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20sicklefang%20longleg.webp",
+        "scale": 1.5
+      }
+    },
+    "SLI7mE4SLmm87ahe": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "RRXHzISbHxLnvQ3q": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20false%20devil.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20false%20devil.webp",
+        "scale": 1.5
+      }
+    },
+    "CPDU21UvJNe032TJ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "sMY7hu636iKfN4Hj": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/zoog-swarm.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/zoog-swarm.webp",
+        "scale": 1.5
+      }
+    },
+    "EVoXQv1tfMYQE72Y": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "PmQtJ1LBy45ulUpG": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ZIRADINI.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ZIRADINI.webp",
+        "scale": 1.2
+      }
+    },
+    "DIvrxLJQeOCACG2i": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "HTZ1zAQlKfjV2b12": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Aliver%20_Pillbug_%20Podiker.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/aliver-pillbug-podiker.webp",
+        "scale": 1.5
+      }
+    },
+    "7IvOx8nHMt8am77E": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Ascended%20Disciple.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Ascended_Disciple.webp",
+        "scale": 1.5
+      }
+    },
+    "8GhQBUvLimGBWIej": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "icF60MINRdmMu5Li": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/EDIT%20PZO90200%20JORDUS%20MUNT.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/EDIT%20PZO90200%20JORDUS%20MUNT.webp",
+        "scale": 2
+      }
+    },
+    "4p34LdwvJY2m3k7t": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ziondriel.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ziondriel.webp",
+        "scale": 1.5
+      }
+    },
+    "ENZmtEVu84WMsiyo": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "EB8SG2RSeEwfrOKb": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20mnoghoth.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20mnoghoth.webp",
+        "scale": 1.5
+      }
+    },
+    "Lrl53bKw5Im3umUN": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ZALAVEXUS.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ZALAVEXUS.webp",
+        "scale": 1.5
+      }
+    },
+    "acGApO7HwzXQVlTU": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Serpentfolk%20Cultist.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Serpentfolk%20Cultist.webp",
+        "scale": 1.5
+      }
+    },
+    "dFox7zrpshKNny3i": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "ir0rdqJJw6dn4RHb": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/EDIT%20PZO90200%20FUNGAL%20CHERTUS%20JHEED.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/EDIT%20PZO90200%20FUNGAL%20CHERTUS%20JHEED.webp",
+        "scale": 2
+      }
+    },
+    "nUnZtlm7PneSF8ww": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20YIZULARUN.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20YIZULARUN.webp",
+        "scale": 1.5
+      }
+    },
+    "Yvz9ZflXUS0SU3fR": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20clockwork%20serpent.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20clockwork%20serpent.webp",
+        "scale": 1.5
+      }
+    },
+    "ht4d7kCdhjnsF2CQ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ISPHINN.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ISPHINN.webp",
+        "scale": 1.5
+      }
+    },
+    "NhY79A94IYUUKDgj": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20vizmivool.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20vizmivool.webp",
+        "scale": 1.5
+      }
+    },
+    "FHxjkYIzoQ53mYp7": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ADIMAR%20SCARNETTI.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ADIMAR%20SCARNETTI.webp",
+        "scale": 1.5
+      }
+    },
+    "0AZQuyXUAnVkNArl": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20coloxus%20demon.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20coloxus%20demon.webp",
+        "scale": 1.5
+      }
+    },
+    "tlduVEwwd5zQaGGJ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20CHARN%20SCARNETTI.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20CHARN%20SCARNETTI.webp",
+        "scale": 1.5
+      }
+    },
+    "UqQwDPkaVhh3Ehht": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20JERVIS%20STOOT.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20JERVIS%20STOOT.webp",
+        "scale": 1.5
+      }
+    },
+    "NpUHRQUpRJWYAtdc": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Ghast%20Priest%20of%20Kabriri.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Ghast%20Priest%20of%20Kabriri.webp",
+        "scale": 2
+      }
+    },
+    "uW9TjCzpLESYlgVz": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "kSQZHMhYyK1seaU0": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "6Os01sBDa1hxrZjs": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "m221Ars4KPC1j7VT": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Gosreg.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Gosreg.webp",
+        "scale": 2
+      }
+    },
+    "KcS0KzOTJHcHfFQA": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Vekensvok%27s%20Lampad.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Vekensvok%27s%20Lampad.webp",
+        "scale": 1.5
+      }
+    },
+    "PmE8OOm1BnYGW8VR": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Tiluatchek.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Tiluatchek.webp",
+        "scale": 1.2
+      }
+    },
+    "r0iaWrjaSiCrxrMg": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20KALEB%20VALDEMAR.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20KALEB%20VALDEMAR.webp",
+        "scale": 3
+      }
+    },
+    "iLKiiMo1s5kz5vQh": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "PNW9oNEgOacBTAVm": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20kanker.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20kanker.webp",
+        "scale": 1.5
+      }
+    },
+    "54wzV6OQLqhO7Tgl": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20scarhorn.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20scarhorn.webp",
+        "scale": 2
+      }
+    },
+    "QY6YXMOIbcwNNAsf": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20narlo.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20narlo.webp",
+        "scale": 1.5
+      }
+    },
+    "RDgoqD06xZDjwPpS": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Raven%20Swarm.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Raven%20Swarm.webp",
+        "scale": 1.5
+      }
+    },
+    "M0hm5JzkOkUCVSFL": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20red%20bishop.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20red%20bishop.webp",
+        "scale": 3
+      }
+    },
+    "w4dc94Yzxw9LtxMM": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20zoog.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20zoog.webp",
+        "scale": 1.5
+      }
+    },
+    "LKg7AOq8OsUp0Ulm": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20ARIKA%20AVERTIN.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20ARIKA%20AVERTIN.webp",
+        "scale": 1.5
+      }
+    },
+    "6zMzd6ICd3p1Ye4q": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Geist.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Geist.webp",
+        "scale": 1.5
+      }
+    },
+    "1G19uNYMSU79P2f9": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20iazmilor.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20iazmilor.webp",
+        "scale": 1.5
+      }
+    },
+    "5eXjcdgKFvAsl89G": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20NUALIA.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20NUALIA.webp",
+        "scale": 1.5
+      }
+    },
+    "iOJqWQMDoqBqmmCg": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/phantom-gecko.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/phantom-gecko.webp",
+        "scale": 1.5
+      }
+    },
+    "zrS9TBd2Tp3YIykQ": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Angry%20Mob.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Angry%20Mob.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "pathfinder-bestiary": {
+    "XrmHgbKgcHDi4OnK": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Shadow.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Shadow.webp",
+        "scale": 1.5
+      }
+    },
+    "jGzVwekcRX5aQpbT": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Goblin%20Commando.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Goblin%20Commando.webp",
+        "scale": 2
+      }
+    },
+    "0rfropeocJWXC6pg": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Goblin%20Dog.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Goblin%20Dog.webp",
+        "scale": 1.5
+      }
+    },
+    "4BBzo72pHOpecoIp": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Goblin%20Warchanter.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Goblin%20Warchanter.webp",
+        "scale": 1.5
+      }
+    },
+    "ZMr28tFTA5NUcBTi": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Lord%20Longfingers.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Lord%20Longfingers.webp",
+        "scale": 1.5
+      }
+    },
+    "E4ctF7Fvi3cdkgQq": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Hunting%20Spider.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Hunting%20Spider.webp",
+        "scale": 1.5
+      }
+    },
+    "gfRXFd24U633OC9r": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Jinkin.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Jinkins.webp",
+        "scale": 1.5
+      }
+    },
+    "Br1AtKUHe3nbzjnY": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Mimic.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Mimic.webp",
+        "scale": 1.5
+      }
+    },
+    "aeCoh4u6c5kt1iCs": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Sandpoint_Devil_Gargoyle.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Sandpoint_Devil_Gargoyle.webp",
+        "scale": 1.5
+      }
+    },
+    "nFMZjWQL6pd9XdqR": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Caligni%20Creeper.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Caligni%20Creeper.webp",
+        "scale": 1.5
+      }
+    },
+    "gWxpeqOQ54Jd4HTG": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Caligni%20Stalker.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Caligni%20Stalker.webp",
+        "scale": 1.5
+      }
+    },
+    "ZsduIlmluQe4ZxFy": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Dero%20Strangler.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Dero%20Strangler.webp",
+        "scale": 1.5
+      }
+    },
+    "ePa0KmNPpR4zUPfX": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Dero%20Magister.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Dero%20Magister.webp",
+        "scale": 2
+      }
+    },
+    "dEAneTvoPuQXZoLR": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Gibbering%20Mouther.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Gibbering%20Mouther.webp",
+        "scale": 1.5
+      }
+    },
+    "SUpy8sleRwi2Egsq": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Drakauthix.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Drakauthix.webp",
+        "scale": 1.5
+      }
+    },
+    "ZXbr1ke1vF0ZFKY3": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Minakthu.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/minakthu.webp",
+        "scale": 1.5
+      }
+    },
+    "Tpuqwt6Af29EMtqX": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Kanker%27s%20Golem.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Kanker%27s%20Golem.webp",
+        "scale": 2
+      }
+    },
+    "IXen98RbUlbxDWBD": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Gogiteth.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Gogiteth.webp",
+        "scale": 2
+      }
+    },
+    "BRo0snV2sH6TFuh6": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Liralarue.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Liralarue.webp",
+        "scale": 1.5
+      }
+    },
+    "4cPw8hZwW6uvyzvh": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Vrock.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Vrock.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "pathfinder-bestiary-2": {
+    "M2BkGD9YwEmCvD9D": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Invidiak.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Invidiak.webp",
+        "scale": 1.5
+      }
+    },
+    "YFvur5htRwt9EfQs": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Sandpoint%20Devil.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Sandpoint%20Devil.webp",
+        "scale": 2
+      }
+    },
+    "HNEUSYnInffvGPHK": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20VISANDER.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20VISANDER.webp",
+        "scale": 1.5
+      }
+    },
+    "cijMuXBk8YUw2RoB": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Caligni%20Slayer.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Caligni%20Slayer.webp",
+        "scale": 1.5
+      }
+    },
+    "8WAc7n2M4Ks00yvj": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Cavern%20Troll.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Cavern%20Troll.webp",
+        "scale": 2
+      }
+    },
+    "7UBCht1tQfeba2Ih": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Liralarue_Wood_Golem.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Liralarue_Wood_Golem.webp",
+        "scale": 1.5
+      }
+    },
+    "TKlnOKpYJkg1dNwb": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Totenmaske.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Totenmaske.webp",
+        "scale": 1.5
+      }
+    },
+    "OFHr8UhsBOOgj0ef": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Intellect%20Devourer.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Intellect%20Devourer.webp",
+        "scale": 1.5
+      }
+    },
+    "h4SZ3U9at7aT0ASv": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Vilortho.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Vilortho.webp",
+        "scale": 1.5
+      }
+    },
+    "jCJUvzs1FaL6PAkq": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Bodak.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Bodak.webp",
+        "scale": 1.5
+      }
+    },
+    "kElZCC1zMQVftoi9": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Isqulug.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Isqulug.webp",
+        "scale": 1.5
+      }
+    },
+    "Y9SDbANT1DWI1DKU": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Animate%20Dream.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Animate%20Dream.webp",
+        "scale": 1.5
+      }
+    },
+    "W2gd0emEVbD8EGmf": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Marsh%20Giant.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Marsh%20Giant.webp",
+        "scale": 1.5
+      }
+    },
+    "GsrqCDf0Dc9PisEt": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Violet%20Fungus.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Violet%20Fungus.webp",
+        "scale": 1.5
+      }
+    },
+    "RUdP7qWg6pnKrPnh": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Striding%20Fire.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Striding%20Fire.webp",
+        "scale": 2
+      }
+    }
+  },
+  "pathfinder-bestiary-3": {
+    "rVtBZrHnWM3lvSs7": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Brimorak.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Brimorak.webp",
+        "scale": 2
+      }
+    },
+    "CjAaXJDY4xpKqQEz": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Sausage.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Sausage.webp",
+        "scale": 1.5
+      }
+    },
+    "H796hayJm3J7MYJg": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Amphisbaena.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Amphisbaena.webp",
+        "scale": 1.5
+      }
+    },
+    "HhuHFmaq69ekSgEl": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Shantak.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/shantak.webp",
+        "scale": 1.5
+      }
+    },
+    "JkJRKxuIGJ3DOD9L": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20remnant%20insilour.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20remnant%20insilour.webp",
+        "scale": 1.5
+      }
+    },
+    "HiazGJoPkJ3gQVAO": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Grioth%20Cultist.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Grioth%20Cultist.webp",
+        "scale": 2
+      }
+    },
+    "XmOYhscNHFw7M2G0": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Rhu-chalik.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Rhu-chalik.webp",
+        "scale": 1.5
+      }
+    },
+    "aQusm2Uh1tw00IVb": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Bore%20Worm%20Swarm.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Bore%20Worm%20Swarm.webp",
+        "scale": 1.5
+      }
+    },
+    "FOG8qK1bWVxp7vmE": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Empress%20Bore%20Worm.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Empress%20Bore%20Worm.webp",
+        "scale": 1.5
+      }
+    },
+    "0A2XLkvOzDMOjC6Q": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Clockwork%20Mage.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/clockwork-mage.webp",
+        "scale": 1.5
+      }
+    },
+    "9HkUdRKoprwo27VN": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Clockwork%20Soldier.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Clockwork%20Soldier.webp",
+        "scale": 1.5
+      }
+    },
+    "ZwtcCnW9CEs78WRC": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Weedfather.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Weedfather.webp",
+        "scale": 1.5
+      }
+    },
+    "Z5RBfl8x39uFpDUn": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Myceloid.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Myceloid.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "book-of-the-dead-bestiary": {
+    "vaVIJeQnKFUeaC8K": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Combusted.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Combusted.webp",
+        "scale": 1.5
+      }
+    },
+    "iEQOUQk1wVHFsajW": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/Geist.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/Geist.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "hazards": {
+    "0dg9YrjsDi6Ap3jF": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    },
+    "A93flWUsot3FmC7t": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/hazard.webp",
+        "scale": 1.5
+      }
+    }
+  },
+  "lost-omens-monsters-of-myth-bestiary": {
+    "10srqxC7QZy0dq2g": {
+      "actor": "modules/pf2e-ts-adv-sandpoint/assets/art/PZO90200%20spectral%20devil.webp",
+      "token": {
+        "img": "modules/pf2e-ts-adv-sandpoint/assets/tokens/PZO90200%20spectral%20devil.webp",
+        "scale": 3
+      }
+    }
+  }
+}
