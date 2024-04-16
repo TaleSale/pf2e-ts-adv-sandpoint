@@ -10,7 +10,7 @@ var b = (a, s, t) => {
   s instanceof WeakSet ? s.add(a) : s.set(a, t);
 };
 var h = (a, s, t) => (K(a, s, "access private method"), t);
-const y = { id: "pf2e-ap200-seven-dooms-for-sandpoint", title: "Seven Dooms for Sandpoint", description: "The town of Sandpoint has seen more than its fair share of danger and trouble over the years, including harrowing fires, prolific serial killers, goblin raids, and attacks by giants and dragons, but what faces the so-called Light of the Lost Coast now is its greatest threat yet! Something sinister has been manipulating events all along, and now a new band of heroes must step in to save this legendary small town from seven deadly dooms!", manifest: "https://cdn.paizo.com/foundry/modules/pf2e-ap200-seven-dooms-for-sandpoint/module.json", url: "https://paizo.com/products/btq02f0z?Pathfinder-Adventure-Path-Seven-Dooms-for-Sandpoint-BUNDLE", version: "1.0.0", media: [{ type: "cover", url: "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/b774b61a-b98d-4ef0-9094-53ae2e1f54e7/PZO90200.jpg", loop: !1, flags: {} }, { type: "icon", url: "https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png", loop: !1, flags: {} }], packs: [{ name: "adventures", label: "Seven Dooms for Sandpoint", path: "packs/adventures", system: "pf2e", ownership: { PLAYER: "LIMITED", ASSISTANT: "OWNER" }, type: "Adventure", flags: {} }, { name: "items", label: "Items", path: "packs/items", system: "pf2e", ownership: { PLAYER: "NONE", ASSISTANT: "OWNER" }, type: "Item", flags: { sigil: { static: !0 } } }], scripts: [], esmodules: ["./index.js"], styles: ["./style.css"], authors: [{ name: "Paizo", url: "https://paizo.com/", flags: {} }], compatibility: { minimum: "11.315", verified: "11" }, relationships: { recommends: [{ id: "quick-insert", type: "module", manifest: "https://gitlab.com/fvtt-modules-lab/quick-insert/-/jobs/artifacts/master/raw/module.json?job=build-module", flags: { sigil: { devOnly: !0 } } }, { id: "dice-so-nice", type: "module", manifest: "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/4.6.10/module/module.json", flags: { sigil: { devOnly: !0 } } }], systems: [{ id: "pf2e", manifest: "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json", flags: { sigil: { localDevVersion: { distPath: "dist" } } }, type: "system", compatibility: { minimum: "5.15.0", verified: "5.15.0" } }] }, flags: { "pf2e-ap200-seven-dooms-for-sandpoint": { adventureImporter: { "Compendium.pf2e-ap200-seven-dooms-for-sandpoint.adventures.Adventure.pf2ap200adv00001": { initialJournalEntryId: "pf2ap20000frontm", initialJournalPageId: "00landing0000000", initialSceneId: "4OYNTOK5HRmcL9Fq", initialLoginScreenBackground: "assets/scenes/fvtt-login.webp", additionalItems: { sYm0DmnCzZ3xZlZP: ["Compendium.pf2e-ap200-seven-dooms-for-sandpoint.items.Item.a4XtQkMXuLUDxOcR"] } } }, "pf2e-art": "modules/pf2e-ap200-seven-dooms-for-sandpoint/image-mapping.json" }, sigil: { sheetClass: "SevenDoomsJournalSheet", parent: "pf2e-ap200-seven-dooms-for-sandpoint", cssClass: "sevendooms", productTitle: "Seven Dooms for Sandpoint", productSlug: "SevenDooms", featureConfigurations: { "distraction-free-mode": !0, "safe-journal-mode": !0, "global-macro-helpers": !0, adventures: !0 }, adventureExports: [{ _id: "pf2ap200adv00001", name: "Seven Dooms for Sandpoint", img: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/layout/cover_scene.png", caption: "", description: "<p>This special, double sized volume presents a full Adventure Path in a single massive module to celebrate the 200th volume of the Pathfinder Adventure Path!</p><p>The town of Sandpoint has seen more than its fair share of danger and trouble over the years, including harrowing fires, prolific serial killers, goblin raids, and attacks by giants and dragons, but what faces the so-called Light of the Lost Coast now is its greatest threat yet! Something sinister has been manipulating events all along, and now a new band of heroes must step in to save this legendary small town from seven deadly dooms!</p><p>Return to the town where it all began with the Seven Dooms for Sandpoint Adventure Path—a full campaign for 4th- to 11th-level characters that is presented in its entirety in this super-sized volume! Seven Dooms for Sandpoint also includes an updated snapshot of Sandpoint as it stands today, complete with ways to interact with and influence the townsfolk. More Thassilonian secrets, exciting new treasures, and a bestiary of dangerous new monsters round out this milestone Adventure Path volume.</p>", sort: 0, _include: { folders: ["OhJIi1tyCbk07U4V", "OoBKdyMJJqyf2JNJ", "ZYoAoi4VDuqxmUfY", "eS1lxVRpKdfR3RZl", "pf2ap20001sevend", "uS7RKnlQYG5kzg8M"] }, _exclude: {}, flags: { core: { sheetClass: "pf2e-ap200-seven-dooms-for-sandpoint.SigilPF2EAdventureImporter" } } }] } }, packFolders: [{ name: "Seven Dooms", sorting: "m", color: "#011e4b", packs: ["adventures", "items"], folders: [] }], protected: !0 }, p = y.id, Q = y.version, _ = y.flags?.sigil?.productTitle, W = y.flags?.sigil?.productSlug, f = y.flags?.sigil?.cssClass, I = y.flags?.sigil?.featureConfigurations, P = y.flags?.sigil?.sheetClass, X = { packageId: "pf2e-ap200-seven-dooms-for-sandpoint", productSlug: "SevenDooms" };
+const y = { id: "pf2e-ts-adv-sandpoint", title: "Seven Dooms for Sandpoint", description: "The town of Sandpoint has seen more than its fair share of danger and trouble over the years, including harrowing fires, prolific serial killers, goblin raids, and attacks by giants and dragons, but what faces the so-called Light of the Lost Coast now is its greatest threat yet! Something sinister has been manipulating events all along, and now a new band of heroes must step in to save this legendary small town from seven deadly dooms!", manifest: "https://cdn.paizo.com/foundry/modules/pf2e-ts-adv-sandpoint/module.json", url: "https://paizo.com/products/btq02f0z?Pathfinder-Adventure-Path-Seven-Dooms-for-Sandpoint-BUNDLE", version: "1.0.0", media: [{ type: "cover", url: "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/b774b61a-b98d-4ef0-9094-53ae2e1f54e7/PZO90200.jpg", loop: !1, flags: {} }, { type: "icon", url: "https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png", loop: !1, flags: {} }], packs: [{ name: "adventures", label: "Seven Dooms for Sandpoint", path: "packs/adventures", system: "pf2e", ownership: { PLAYER: "LIMITED", ASSISTANT: "OWNER" }, type: "Adventure", flags: {} }, { name: "items", label: "Items", path: "packs/items", system: "pf2e", ownership: { PLAYER: "NONE", ASSISTANT: "OWNER" }, type: "Item", flags: { sigil: { static: !0 } } }], scripts: [], esmodules: ["./index.js"], styles: ["./style.css"], authors: [{ name: "Paizo", url: "https://paizo.com/", flags: {} }], compatibility: { minimum: "11.315", verified: "11" }, relationships: { recommends: [{ id: "quick-insert", type: "module", manifest: "https://gitlab.com/fvtt-modules-lab/quick-insert/-/jobs/artifacts/master/raw/module.json?job=build-module", flags: { sigil: { devOnly: !0 } } }, { id: "dice-so-nice", type: "module", manifest: "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/4.6.10/module/module.json", flags: { sigil: { devOnly: !0 } } }], systems: [{ id: "pf2e", manifest: "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json", flags: { sigil: { localDevVersion: { distPath: "dist" } } }, type: "system", compatibility: { minimum: "5.15.0", verified: "5.15.0" } }] }, flags: { "pf2e-ts-adv-sandpoint": { adventureImporter: { "Compendium.pf2e-ts-adv-sandpoint.adventures.Adventure.pf2ap200adv00001": { initialJournalEntryId: "pf2ap20000frontm", initialJournalPageId: "00landing0000000", initialSceneId: "4OYNTOK5HRmcL9Fq", initialLoginScreenBackground: "assets/scenes/fvtt-login.webp", additionalItems: { sYm0DmnCzZ3xZlZP: ["Compendium.pf2e-ts-adv-sandpoint.items.Item.a4XtQkMXuLUDxOcR"] } } }, "pf2e-art": "modules/pf2e-ts-adv-sandpoint/image-mapping.json" }, sigil: { sheetClass: "SevenDoomsJournalSheet", parent: "pf2e-ts-adv-sandpoint", cssClass: "sevendooms", productTitle: "Seven Dooms for Sandpoint", productSlug: "SevenDooms", featureConfigurations: { "distraction-free-mode": !0, "safe-journal-mode": !0, "global-macro-helpers": !0, adventures: !0 }, adventureExports: [{ _id: "pf2ap200adv00001", name: "Seven Dooms for Sandpoint", img: "modules/pf2e-ts-adv-sandpoint/assets/layout/cover_scene.png", caption: "", description: "<p>This special, double sized volume presents a full Adventure Path in a single massive module to celebrate the 200th volume of the Pathfinder Adventure Path!</p><p>The town of Sandpoint has seen more than its fair share of danger and trouble over the years, including harrowing fires, prolific serial killers, goblin raids, and attacks by giants and dragons, but what faces the so-called Light of the Lost Coast now is its greatest threat yet! Something sinister has been manipulating events all along, and now a new band of heroes must step in to save this legendary small town from seven deadly dooms!</p><p>Return to the town where it all began with the Seven Dooms for Sandpoint Adventure Path—a full campaign for 4th- to 11th-level characters that is presented in its entirety in this super-sized volume! Seven Dooms for Sandpoint also includes an updated snapshot of Sandpoint as it stands today, complete with ways to interact with and influence the townsfolk. More Thassilonian secrets, exciting new treasures, and a bestiary of dangerous new monsters round out this milestone Adventure Path volume.</p>", sort: 0, _include: { folders: ["OhJIi1tyCbk07U4V", "OoBKdyMJJqyf2JNJ", "ZYoAoi4VDuqxmUfY", "eS1lxVRpKdfR3RZl", "pf2ap20001sevend", "uS7RKnlQYG5kzg8M"] }, _exclude: {}, flags: { core: { sheetClass: "pf2e-ts-adv-sandpoint.SigilPF2EAdventureImporter" } } }] } }, packFolders: [{ name: "Seven Dooms", sorting: "m", color: "#011e4b", packs: ["adventures", "items"], folders: [] }], protected: !0 }, p = y.id, Q = y.version, _ = y.flags?.sigil?.productTitle, W = y.flags?.sigil?.productSlug, f = y.flags?.sigil?.cssClass, I = y.flags?.sigil?.featureConfigurations, P = y.flags?.sigil?.sheetClass, X = { packageId: "pf2e-ts-adv-sandpoint", productSlug: "SevenDooms" };
 function ee() {
   Hooks.once("init", async () => {
     const a = game.modules.filter(
@@ -333,7 +333,7 @@ const ne = {
 };
 for (const [a, s] of Object.entries(ne))
   I?.[a] && s();
-const oe = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/importer.hbs";
+const oe = "modules/pf2e-ts-adv-sandpoint/templates/importer.hbs";
 var O, B, A, U;
 const N = class N extends AdventureImporter {
   /**
@@ -626,7 +626,7 @@ const z = class z extends JournalImagePageSheet {
 };
 m(z, "SigilJournalSheetImagePage");
 let T = z;
-const ie = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/dialog-show.hbs", re = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/page-edit.hbs", le = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/page-view.hbs", F = class F extends JournalTextPageSheet {
+const ie = "modules/pf2e-ts-adv-sandpoint/templates/dialog-show.hbs", re = "modules/pf2e-ts-adv-sandpoint/templates/page-edit.hbs", le = "modules/pf2e-ts-adv-sandpoint/templates/page-view.hbs", F = class F extends JournalTextPageSheet {
   /**
    *
    */
@@ -723,7 +723,7 @@ const ie = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/dialog-show.h
 };
 m(F, "SigilJournalSheetPage");
 let C = F;
-const de = "modules/pf2e-ap200-seven-dooms-for-sandpoint/templates/journal.hbs", R = class R extends JournalSheet {
+const de = "modules/pf2e-ts-adv-sandpoint/templates/journal.hbs", R = class R extends JournalSheet {
   /**
    *
    */
@@ -867,14 +867,14 @@ Hooks.once("init", () => {
   });
 });
 const H = /* @__PURE__ */ new Set([
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame01.webp",
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame02.webp",
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame03.webp"
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame01.webp",
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame02.webp",
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Flame03.webp"
 ]), ce = /* @__PURE__ */ new Set([
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch01.webp",
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch02.webp",
-  "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch03.webp"
-]), q = /* @__PURE__ */ new Set(["modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/maps/blank.webp"]);
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch01.webp",
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch02.webp",
+  "modules/pf2e-ts-adv-sandpoint/assets/maps/Map_PG50_Whistlefang_Lair_JasonJuta_Tile_Scorch03.webp"
+]), q = /* @__PURE__ */ new Set(["modules/pf2e-ts-adv-sandpoint/assets/maps/blank.webp"]);
 Hooks.on("getSceneControlButtons", (a) => {
   if (!canvas?.scene?.getFlag("world", "isBurning"))
     return;
@@ -944,42 +944,42 @@ Hooks.once("diceSoNiceReady", (a) => {
   a.addSystem({ id: "trs-pathfinder2-sevendooms", name: "The Rollsmith - Seven Dooms for Sandpoint" }, !1), a.addDicePreset({
     type: "d2",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_2.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_2.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d4",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_4.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_4.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d6",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_6.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_6.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d8",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_8.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_8.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d10",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_10.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_10.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d100",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_100.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_100.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d12",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_12.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_12.gltf",
     system: "trs-pathfinder2-sevendooms"
   }), a.addDicePreset({
     type: "d20",
     labels: "",
-    modelFile: "modules/pf2e-ap200-seven-dooms-for-sandpoint/assets/models/dice_20.gltf",
+    modelFile: "modules/pf2e-ts-adv-sandpoint/assets/models/dice_20.gltf",
     system: "trs-pathfinder2-sevendooms"
   });
 });
